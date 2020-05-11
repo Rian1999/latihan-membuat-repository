@@ -1,0 +1,6 @@
+1 selamat datang 
+2
+3 silahkan mengisi biodata anda dibawah ini :
+4 Nama.  :
+5 Alamat :
+6 tujuan :
